@@ -235,4 +235,4 @@ This repository serves as the official landing page for Cemu. The software is di
 **Get the most recent version of Cemu today!**
 
 ---
-**Last updated:** 2026-09-18 12:28:39 UTC
+**Last updated:** 2026-09-18 16:48:16 UTC
